@@ -8,4 +8,4 @@ twitch.tv##.pinned-cheer,.pinned-cheer-v2,button[data-a-target="bits-button"],di
 !! Clip button
 www.twitch.tv##[aria-label="Clip (alt+x)"]
 !! Channel panels
-www.twitch.tv##.channel-panels-container
+www.twitch.tv##.channel-panels
