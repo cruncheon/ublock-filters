@@ -1,0 +1,11 @@
+! Twitch
+!! Prime promotions
+twitch.tv##[data-test-selector='test_selector_prime_tracking_button_wrapper'],[data-a-target='blue-bar'],.prime-offers__pill
+!! Extensions
+twitch.tv##.extensions-dock__layout,.extensions-video-overlay-size-container,.extensions-notifications,.extension-container,.extension-taskbar
+!! Bits and Leaderboard
+twitch.tv##.pinned-cheer,.pinned-cheer-v2,button[data-a-target="bits-button"],.channel-leaderboard-header-rotating__expand-grabber,.channel-leaderboard-header-rotating__users,.channel-leaderboard-header-rotating__users,[data-test-selector="last-x-events"],img.chat-line__message--emote[src^="https://d3aqoihi2n8ty8.cloudfront.net/actions/"],img.chat-line__message--emote[src^="https://d3aqoihi2n8ty8.cloudfront.net/partner-actions/"],.chat-badge[alt~="cheer"],[aria-label="Get Bits"],.tw-interactable
+!! Clip button
+www.twitch.tv##[aria-label="Clip (alt+x)"]
+!! Channel panels
+www.twitch.tv##.channel-panels-container
