@@ -9,3 +9,5 @@ twitch.tv##.pinned-cheer,.pinned-cheer-v2,button[data-a-target="bits-button"],di
 www.twitch.tv##[aria-label="Clip (alt+x)"]
 !! Channel panels
 www.twitch.tv##.channel-panels
+!! Sign-up footer
+www.twitch.tv###twilight-sticky-footer-root
