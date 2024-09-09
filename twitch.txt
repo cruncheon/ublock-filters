@@ -11,3 +11,5 @@ www.twitch.tv##[aria-label="Clip (alt+x)"]
 www.twitch.tv##.channel-panels
 !! Sign-up footer
 www.twitch.tv###twilight-sticky-footer-root
+!! Subtember banners
+www.twitch.tv##.subtember-gradient
