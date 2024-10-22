@@ -1,0 +1,6 @@
+! Hide prices
+www.moxfield.com##div.me-4.d-inline-block.text-nowrap:nth-of-type(1)
+www.moxfield.com##div.text-center:nth-of-type(4)
+www.moxfield.com##.mx-auto.mt-4.gap-2.d-grid
+www.moxfield.com##.is-owner.deckview-image-container > .me-1.mt-2.deckview-image-properties
+www.moxfield.com##.ms-xl-5.ms-md-4.ms-4.cursor-pointer
