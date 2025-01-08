@@ -1,4 +1,6 @@
 ! Twitch
+!! Video Ads for https://github.com/pixeltris/TwitchAdSolutions
+twitch.tv##+js(twitch-videoad)
 !! Prime promotions
 twitch.tv##[data-test-selector='test_selector_prime_tracking_button_wrapper'],[data-a-target='blue-bar'],.prime-offers__pill
 !! Extensions
@@ -15,8 +17,6 @@ twitch.tv##.channel-panels
 twitch.tv##button:has-text(Go Ad-Free for Free)
 !! Twitch sign-up footer
 twitch.tv###twilight-sticky-footer-root
-!! Subtember banners
-twitch.tv##.subtember-gradient
 !! Recommended Channels
 twitch.tv##[aria-label="Recommended Channels"]
 !! Viewers Also Watch
