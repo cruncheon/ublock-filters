@@ -17,10 +17,6 @@ twitch.tv##.channel-panels
 twitch.tv##button:has-text(Go Ad-Free for Free)
 !! Twitch sign-up footer
 twitch.tv###twilight-sticky-footer-root
-!! Recommended Channels
-twitch.tv##[aria-label="Recommended Channels"]
-!! Viewers Also Watch
-twitch.tv##[aria-label*="Viewers Also Watch"]
 !! Bit rewards
 twitch.tv##div[class*="bitsRewardListItem--"]
 !! Animated chat messages
