@@ -11,6 +11,8 @@ twitch.tv##.pinned-cheer,.pinned-cheer-v2,button[data-a-target="bits-button"],di
 twitch.tv##[aria-label="Clip (alt+x)"]
 !! Subcriber clip button
 twitch.tv##[aria-label="Subscribe to clip"]
+!! Clip buttons with the "Follow for X months clip" label
+twitch.tv##[aria-label*="months to clip"]
 !! Channel panels
 twitch.tv##.channel-panels
 !! Turbo sign-up button
