@@ -25,3 +25,5 @@ twitch.tv##div[class*="bitsRewardListItem--"]
 twitch.tv##.animatedMessageContainer
 !! Community points summary
 twitch.tv##.community-points-summary
+!! Bit combo button
+twitch.tv##div[class*="ingressButtonBackground--"]
