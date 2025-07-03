@@ -23,3 +23,5 @@ twitch.tv###twilight-sticky-footer-root
 twitch.tv##div[class*="bitsRewardListItem--"]
 !! Animated chat messages
 twitch.tv##.animatedMessageContainer
+!! Community points
+##.community-points-summary
